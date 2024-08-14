@@ -8,3 +8,4 @@
 | Cacau Show         | [https://www.linkedin.com/company/cacau-show/](https://www.linkedin.com/company/cacau-show/)           |
 | Itaú               | [https://www.linkedin.com/company/itau/](https://www.linkedin.com/company/itau/)                       |
 | MZiC               | [https://www.linkedin.com/company/mzic/](https://www.linkedin.com/company/mzic/)                       |
+| Kaizen Gaming      | [https://www.linkedin.com/company/kaizen-gaming/](https://www.linkedin.com/company/kaizen-gaming/)     |
